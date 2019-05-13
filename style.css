@@ -1,4 +1,26 @@
 body {
     background-color: black;
     color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://fsmedia.imgix.net/c7/45/6f/7d/4cb5/4f41/850c/e8fcbcab6491/marvel-daredevil-netflix-matt-murdock-punisher.jpeg?rect=2%2C36%2C1278%2C638&auto=format%2Ccompress&dpr=2&w=650");
+    background-position: center;
+    background-repeat: none;
+}
+.release{
+    color:rgb(172, 172, 172);
+}
+.navbar{
+    background-color:black;
+}
+.thumbnail{
+    height: 180px;
+    width: auto;
+}
+.daredevil{
+    border-style:solid;
+    border-width: thick;
+    border-color: white;
+}
+.new-releases{
+    background-color:darkslategrey;
 }
