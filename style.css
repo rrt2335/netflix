@@ -8,6 +8,7 @@ body {
 }
 .release{
     color:rgb(172, 172, 172);
+    margin: 0px;
 }
 .navbar{
     background-color:black;
